@@ -12,7 +12,7 @@ h1 {
 body {
   background-image: linear-gradient(#ecfcff, #5edfff);
   margin: none;
-  padding: none;
+  padding: 0 30;
 }
 
 .flex-container {
