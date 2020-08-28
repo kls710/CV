@@ -12,7 +12,8 @@ h1 {
 body {
   background-image: linear-gradient(#ecfcff, #5edfff);
   margin: none;
-  padding: 0 30px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .flex-container {
