@@ -1,5 +1,9 @@
 /* font-family: 'Dancing Script', cursive;
 font-family: 'Ubuntu Condensed', sans-serif; */
+body{
+  padding-left: 20px;
+  padding-right: 20px;
+}
 h1 {
   font-family: 'Dancing Script', cursive;
   font-size: 5.25rem;
